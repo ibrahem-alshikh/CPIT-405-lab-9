@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lab9/static/css/main.f62e5528.css",
-    "main.js": "/lab9/static/js/main.b583df7e.js",
-    "index.html": "/lab9/index.html",
-    "main.f62e5528.css.map": "/lab9/static/css/main.f62e5528.css.map",
-    "main.b583df7e.js.map": "/lab9/static/js/main.b583df7e.js.map"
+    "main.css": "/CPIT-405-lab-9/static/css/main.f62e5528.css",
+    "main.js": "/CPIT-405-lab-9/static/js/main.b583df7e.js",
+    "index.html": "/CPIT-405-lab-9/index.html",
+    "main.f62e5528.css.map": "/CPIT-405-lab-9/static/css/main.f62e5528.css.map",
+    "main.b583df7e.js.map": "/CPIT-405-lab-9/static/js/main.b583df7e.js.map"
   },
   "entrypoints": [
     "static/css/main.f62e5528.css",
